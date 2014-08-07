@@ -1,4 +1,0 @@
-urlshortener
-============
-
-UrlShortener in Scala
